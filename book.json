@@ -28,7 +28,6 @@
             "top": 36
         },
         "pageNumbers": false,
-        "paperSize": "a4"
     },
     "plugins": ["katex"],
     "title": "MachineLearning",
