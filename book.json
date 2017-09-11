@@ -51,7 +51,7 @@
         "mobi": "styles/mobi.css",
         "epub": "styles/epub.css"
     },  // 用户自定义的样式，编译时对应的
-    "plugins": ["disqus","codeblock-filename"],
+    "plugins": ["disqus","codeblock-filename","mathjax"],
     "pluginsConfig": {
         "disqus": {
             "shortName": "hub7diary"
