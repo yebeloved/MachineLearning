@@ -1,6 +1,6 @@
 {
     "gitbook": "2.x.x",
-    "plugins": ["Ketex"],
+    "plugins": ["katex"],
     "links": {
         "sidebar": {
             "Contact us / Support": "https://www.gitbook.com/contact"
