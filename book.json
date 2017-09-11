@@ -1,7 +1,7 @@
 {
    {
-"author": "水泡泡",
-"description": "水泡泡的testbook",
+"author": "yebeloved",
+"description": "MachineLearning",
 "extension": null,
 "generator": "site",
 "language": "zh-hans",
@@ -73,7 +73,7 @@
 "shortName": "yourshorName"
 }
 },
-"title": "test book",
+"title": "MachineLearning",
 "variables": {},
 "theme-default": {
 "showLevel": true
