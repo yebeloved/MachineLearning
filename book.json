@@ -1,6 +1,6 @@
 {
     "gitbook": "2.x.x",
-    "plugins": ["mathjax"],
+    "plugins": ["mathjax-full@>=0.6.2"],
     "language": "zh",
     "links": {
         "sidebar": {
