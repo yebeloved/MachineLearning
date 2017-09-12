@@ -18,4 +18,4 @@ $$假设E[X]=\mu, V[X]=\sigma^2 > 0, 只要令W=(x-\mu)/\sigma，就能得到E[X
 $$V[X] = E[X^2] - E[X]^2$$
 $$E[X]=\mu, V[Y]=\sigma^2, 有E[(x-a)^2]=(\mu-a)^2+\sigma^2$$
 证明：
-![](/assets/Image 23.png)
+![](/assets/variance.png)
