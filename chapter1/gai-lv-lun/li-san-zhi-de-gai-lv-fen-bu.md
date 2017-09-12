@@ -16,9 +16,8 @@ $$V[Y] = V[cX] = c^2V[X]$$ ...乘以常量c后，方差变为原来的c^2倍
 ###标准化/归一化
 假设$$E[X]=\mu, V[X]=\sigma^2 > 0$$, 只要令$$W=(x-\mu)/\sigma$$，就能得到E[X] = 0且V[W]=1。
 ###平方的期望值与方差
-$$
-V[X] = E[X^2] - E[X]^2
-E[X]=\mu, V[Y]=\sigma^2, 有E[(x-a)^2]=(\mu-a)^2+\sigma^2
-$$
+$$V[X] = E[X^2] - E[X]^2$$
+$$E[X]=\mu, V[Y]=\sigma^2$$, 有$$E[(x-a)^2]=(\mu-a)^2+\sigma^2$$
+
 证明：
 ![](/assets/variance.png)
