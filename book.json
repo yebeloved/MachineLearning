@@ -1,6 +1,6 @@
 {
     "gitbook": "2.x.x",
-    "plugins": ["katex"],
+    "plugins": ["mathjax"],
     "language": "zh",
     "links": {
         "sidebar": {
